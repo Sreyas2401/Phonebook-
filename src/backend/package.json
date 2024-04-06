@@ -6,7 +6,7 @@
   "module": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
+    "devServer": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sreyas R",
